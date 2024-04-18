@@ -5,15 +5,6 @@
 #define MOTOR2_IN1 7
 #define MOTOR2_IN2 8
 
-
-#define BOTON_ADELANTE 9
-#define BOTON_ATRAS 10
-#define BOTON_IZQUIERDA 11
-#define BOTON_DERECHA 12
-
-void setup() {
-  
-  pinMode(MOTOR1_ENABLE, OUTPUT);
   pinMode(MOTOR1_IN1, OUTPUT);
   pinMode(MOTOR1_IN2, OUTPUT);
   pinMode(MOTOR2_ENABLE, OUTPUT);
