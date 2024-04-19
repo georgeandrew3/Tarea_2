@@ -16,3 +16,4 @@ Listado de herramientas:
 
 Se adjunta Vista esquemática 
 
+[tarea 2.pdf](https://github.com/georgeandrew3/Tarea_2/files/15032900/tarea.2.pdf)
